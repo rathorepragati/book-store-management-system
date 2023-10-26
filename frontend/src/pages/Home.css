@@ -1,0 +1,13 @@
+.Home-Page{
+    width:100%;
+    min-height: 91.5vh;
+    max-height: auto;
+}
+.homeimg{
+    width: 800px ;
+    height: 500px;
+}
+.viewBook{
+    text-decoration: none;
+
+}
